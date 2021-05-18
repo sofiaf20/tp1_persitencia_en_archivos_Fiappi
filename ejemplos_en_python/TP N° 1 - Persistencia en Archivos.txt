@@ -1,0 +1,32 @@
+TP N° 1 - Persistencia en Archivos
+
+
+En este trabajo vamos a experimentar cómo distintos lenguajes pueden hacer frente de forma sencilla al problema de la 
+persistencia de datos en archivos y conocer los límites que esto implica, este trabajo va a tener una única entrega que
+ va a ser un repositorio de github que uds construyan con el nombre: tp1_persitencia_en_archivos_apellido
+
+Primero voy a adjuntar el enlace a la clase de hoy para que puedan ver las explicaciones relacionadas a la primer parte de
+ este TP:
+https://drive.google.com/file/d/1BC0m2cLbzp3jkp-nijjt8Eyd2wyKcXyO/view?usp=sharing
+
+Primera Parte
+
+La primer parte de este trabajo (que voy a ir actualizando) es instalar el intérprete del lenguaje Python en sus sistema 
+operativo, cómo la mayoría usa Microsoft Windows voy a adjuntar el sitio y recurso para ese sistema. Si otra u otro 
+estudiante usa otro sistema me puede avisar mediante un mensaje en esta actividad.
+
+    Desde el enlace oficial pueden descargar e instalar Python para windows: https://www.python.org/downloads/
+    Cómo editor les recomiendo usar Sublime Text, pero pueden usar el que uds prefieran: https://www.sublimetext.com/
+
+
+Una vez que tengan el entorno instalado en sublime text mediante la combinación CTRL+B pueden intentar que el interprete 
+ejecute el código que voy a adjuntar en el script: puntajes_01.py, ese va a ser el primer hito de este trabajo y si quieren
+ pueden adjuntar la captura del resultado.
+
+A partir de tener el entorno de interpretación de Python configurado, vamos a intentar continuar con los siguientes ejemplos
+ que mostré para que puedan escribir en clase,
+
+    https://uniwebsidad.com/libros/algoritmos-python/capitulo-11/persistencia-de-datos
+
+si consiguen ejecutarlos correctamente, construyan el repositorio con el nombre indicado y suban todos estos archivos a un 
+directorio denominado "ejemplos_en_python".
