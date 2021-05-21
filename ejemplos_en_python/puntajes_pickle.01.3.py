@@ -10,7 +10,7 @@ def guardar_puntajes(nombre_archivo, puntajes):
     Post: se guardaron los valores en el archivo,
           separados por comas.
     """
-    archivo = open(nombre_archivo, "w")
+    archivo = open(nombre_archivo, "wb")
     pickle.dump(puntajes, archivo)
     archivo.close()
 
@@ -22,11 +22,11 @@ def recuperar_puntajes(nombre_archivo):
     Post: la lista devuelta contiene los puntajes en el formato:
           [(nombre1,puntaje1,tiempo1),(nombre2,puntaje2,tiempo2)].
     """
-    archivo = open(nombre_archivo, "r")
+    archivo = open(nombre_archivo, "rb")
     puntajes = pickle.load(archivo)
     archivo.close()
     return puntajes
 
 valores = [("Pepe", 108, "4:16"), ("Juana", 2315, "8:42")]
-guardar_puntajes("puntajes.txt", valores)
-print (recuperar_puntajes("puntajes.txt"))
+guardar_puntajes("puntajes.dat", valores)
+print (recuperar_puntajes("puntajes.dat"))
