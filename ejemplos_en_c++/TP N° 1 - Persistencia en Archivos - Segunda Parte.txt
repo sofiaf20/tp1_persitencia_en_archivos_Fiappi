@@ -1,0 +1,11 @@
+﻿
+A partir de la primera parte, completen los ejemplos en python, incluso la agenda. Luego cómo acordamos la clase pasada, 
+vamos a replicar los ejemplos 1 y 3
+ (persistencia en texto y binaria en C++). Voy a adjuntar un material con ejemplos básicos para poder empezar a plantear
+ sus soluciones. Siempre entreguen el
+ mismo repositorio de la primera parte de esta actividad. Solo suban los ejemplos en C++ en ese repositorio. Pueden usar
+ la biblioteca string de la STL. 
+Para parsear la estructura de los datos guardados.
+
+http://www.cplusplus.com/reference/string/string/
+
